@@ -2,13 +2,12 @@
 
 My name's Mateus, I've been studying technology for 7 years and I've been working as a software engineer for 4 years. I started creating very simple Android apps and some web tools using ruby on rails. I was enchanted by the technologies of the iOS world in 2017 and then I continued to specialize more and more on this platform. 
 
-I'm currently working on @PicPay, I'm be part of the Mobile Platform team focusing on build system and development experience with automations.
+I'm currently working at @PicPay, I'm be part of the Mobile Platform team focusing on build system and development experience with automations.
 
 ## Statistics
 <div>
 <a href="https://github.com/MateusDeSousa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDeSousa&layout=compact&langs_count=7&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusDeSousa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Technologies
