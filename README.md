@@ -2,7 +2,6 @@
 
 My name's Mateus, I've been studying technology for 7 years and I've been working as a software engineer for 4 years. I started creating very simple Android apps and some web tools using ruby on rails. I was enchanted by the technologies of the iOS world in 2017 and then I continued to specialize more and more on this platform. 
 
-I'm currently working at @PicPay, I'm be part of the Mobile Platform team focusing on build system and development experience with automations.
 
 ## Technologies
 <p float="left">
