@@ -4,12 +4,6 @@ My name's Mateus, I've been studying technology for 7 years and I've been workin
 
 I'm currently working at @PicPay, I'm be part of the Mobile Platform team focusing on build system and development experience with automations.
 
-## Statistics
-<div>
-<a href="https://github.com/MateusDeSousa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDeSousa&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-
 ## Technologies
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" height="60"/>
